@@ -12,6 +12,6 @@ idade = 40
 PI = 3.14
 resultado = "true"
 print(nome)
-print(idade)   #sem aspas por se tratar de um variavel
+print(idade)   #sem aspas por se tratar de uma variavel
 print(PI)      #e não de uma string diretamente
 print(resultado)
